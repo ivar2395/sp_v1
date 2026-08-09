@@ -1,6 +1,6 @@
 streamlit
 langchain
 langchain-openai
-duckduckgo-search
+ddgs
 pydantic
 langchain-community
